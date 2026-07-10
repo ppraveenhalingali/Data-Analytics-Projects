@@ -13,7 +13,7 @@ This project performs data analysis using Python in Google Colab. It includes da
 ## Files
 - `AIRBNB HOTEL BOOKING ANALYTICS`
 - `IPL Data Analytics`
-- 'NETFLIX Data Analytics'
+- `NETFLIX Data Analytics`
 
 ## Author
 **Praveen H**
